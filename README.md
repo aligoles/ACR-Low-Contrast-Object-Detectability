@@ -1,4 +1,4 @@
-### Required Python pachages:  
+### Required Python packages:  
 * matplotlib  
 * pydicom  
 * cv2  
