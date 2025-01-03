@@ -7,4 +7,9 @@ All source code used to generate the results in the paper are in the repository.
 * cv2  
 * pandas  
 * scipy  
-* statsmodels  
+* statsmodels
+
+## License
+
+You can freely use and modify the code, so long as you provide attribution to the authors and reference the manuscript.
+The authors reserve the rights to the article content, which is currently submitted for publication.
